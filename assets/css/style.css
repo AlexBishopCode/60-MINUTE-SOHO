@@ -89,6 +89,17 @@ main {
     flex: 1 0 auto;
 }
 
+#info-bar {
+    display: flex;
+    letter-spacing: 3px;
+    background-color: lightsalmon;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+div > span > h2 {
+    text-align: center;
+}
 /* Footer */
 #social-networks {
     text-align: center;
