@@ -73,6 +73,7 @@ nav {
     box-shadow: 0 10px 20px -5px #3a3a3a;
     display: none;
     top: 100%;
+    text-align: center;
 }
 
 /* Nav toggle */
