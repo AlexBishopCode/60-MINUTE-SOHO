@@ -100,7 +100,9 @@ main {
     letter-spacing: 3px;
     background-color: lightsalmon;
     justify-content: space-around;
-    padding: 30px 0;
+    padding: 30px 30px;
+    line-height: 1.5;
+    font-family: sans-serif;
 }
 
 div > span > h2 {
