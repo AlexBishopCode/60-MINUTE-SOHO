@@ -47,7 +47,7 @@
                 <p>All of our tailored routes and based on historical records</p>
             </div>
         </div>
-        <div class="tours-container">
+        <div href="#tours" class="tours-container">
             <div class="soho-sound">
                 <h2>Soho Sound</h2>
                 <p></p>
@@ -61,7 +61,6 @@
                 <p></p>
             </div>
         </div>
-
         <div class="container">
             <div class="bg1">
                 <h2><i class="fa-solid fa-thumbs-up"></i></h2>
@@ -80,7 +79,35 @@
                 <p> Accessible Routes </p>
             </div>
         </div>
-            
+        <div class="book-container">
+            <form id="booking-form" method="POST" action="http://formdump.codeinstitute.net">
+                <h2>Sign up for a Tour</h2>
+                <label for="First-name">First Name</label>
+                <input type="text" name="first-name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last-name" id="last-name" class="text-input" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <input type="email" name="email-address" id="email-address" class="text-input" required>
+                <div class="radio-buttons">
+                <div>
+                    <label for="soho-sound">Soho Sound</label>
+                    <input type="radio" name="tour-preference" id="soho-sound" value="soho-sound" required checked>
+                </div>
+                <div>
+                    <label for="beating-art">Beating Art</label>
+                    <input type="radio" name="tour-preference" id="beating-art" value="beating-art" required checked>
+                </div>
+                <div>
+                    <label for="building-soho">Building Soho</label>
+                    <input type="radio" name="tour-preference" id="building-soho" value="building-soho" required checked>
+                </div>
+                <button type="submit" class="book-button">BOOK NOW</button>
+            </form>
+        
+
+        </div>   
     </main>
     <!-- Footer -->
     <footer>
