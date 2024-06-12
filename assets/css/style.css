@@ -65,15 +65,18 @@ p {
 
 /* Navbar styles with dropdown toggle */
 nav {
-    position: absolute;
-    background-color: #ffffff;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    box-shadow: 0 10px 20px -5px #3a3a3a;
-    display: none;
-    top: 100%;
-    text-align: center;
+
+position: absolute;
+background-color: #ffffff;
+width: 100%;
+right: 0;
+padding: 0 1rem;
+box-shadow: 0 10px 20px -5px #3a3a3a;
+display: none;
+top: 100%;
+text-align: center;
+padding-top: 10px;
+
 }
 
 /* Nav toggle */
