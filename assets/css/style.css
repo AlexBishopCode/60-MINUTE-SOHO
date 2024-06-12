@@ -251,6 +251,12 @@ div > span > h2 {
         line-height: 100px;
         margin: 0 0.5rem;
     }
+
+    .tours-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 10px;
+    }
 }
 
 /* Media query: tablets and larger (992px and up) */
