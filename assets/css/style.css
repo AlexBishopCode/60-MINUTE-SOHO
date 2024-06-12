@@ -111,29 +111,6 @@ div > span > h2 {
     text-align: center;
 }
 
-.soho-image-div {
-    width: 100%;
-    height: 20vh;
-    overflow-y: hidden;
-}
-
-.soho-fashion-div {
-    width: 100%;
-    height: 20vh;
-    overflow-y: hidden;
-}
-
- .soho-jazz-div {
-    width: 100%;
-    height: 25vh;
-    overflow-y: hidden;
-}
-
-img {
-    width: 100%;
-    min-height: 100%;
-}
-
 .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -160,24 +137,6 @@ img {
     transform: sclae(0.98);
 }
 
-
-/*
-.bg1 {
-    background: url('../images/soho-fashion-image.png');
-}
-
-.bg2 {
-    background: url('../images/soho-jazz-tour.png');
-}
-
-.bg3 {
-    background: url('../images/soho-sixties-image.png');
-}
-
-.bg4 {
-    background: url('../images/soho-fashion-image.png');
-}
-*/
 /* Footer */
 #social-networks {
     text-align: center;
