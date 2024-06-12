@@ -360,6 +360,14 @@ div > span > h2 {
     color: #3a3a3a;
 }
 
+/* Media query: tablets and larger (510px and up) */
+@media screen and (min-width: 510px) {
+     #info-bar {
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
