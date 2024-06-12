@@ -393,6 +393,26 @@ div > span > h2 {
         grid-gap: 10px;
     }
 
+    .tours-container > div {
+        height: 300px;
+    }
+
+    .soho-sound__img {
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .beating-art__img {
+        height: 100%;
+        object-fit: cover;
+    }
+        
+    .building-soho__img {
+        height: 100%;
+        object-fit: cover;
+    }
+        
+
     .container {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
