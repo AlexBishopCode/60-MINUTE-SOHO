@@ -257,6 +257,12 @@ div > span > h2 {
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 10px;
     }
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 10px;
+    }
 }
 
 /* Media query: tablets and larger (992px and up) */
