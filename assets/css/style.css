@@ -130,13 +130,55 @@ div > span > h2 {
 
 .tours-container > div:hover {
     opacity: 0.7;
-    transform: sclae(0.98);
+    transform: scale(0.98);
 }
 
 .tours-container h2 {
     font-size: 45px;
     font-weight: 300;
     margin: 10px;
+}
+
+.beating-art {
+    position: relative;
+    overflow: hidden;
+}
+
+.beating-art__img {
+    display: block;
+    width: 100%;
+}
+
+.beating-art__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #00000099;
+    color: #ffffff;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.beating-art__overlay:hover {
+    opacity: 1;
+
+}
+
+.beating-art__title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.beating-art__description {
+    font-size: 1.25em;
+    margin-top: 0.25em;
 }
 
 .about-container > span {
