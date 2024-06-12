@@ -28,10 +28,10 @@
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></i></i></label>
         <nav>
             <ul id="menu">
-                <li><a href="">About Us</a></li>
-                <li><a href="">Tours</a></li>
-                <li><a href="">Guides</a></li>
-                <li><a href="">Book Here</a></li>
+                <li><a href="#tours-div">Tours</a></li>
+                <li><a href="#about-div">About</a></li>
+                <li><a href="accessibility-div">Accessibility</a></li>
+                <li><a href="booking-div">Sign Up</a></li>
             </ul>
         </nav>
     </header>
@@ -44,21 +44,7 @@
             <span><h2>Local <br> Guides</h2></span>
         </div>
         <br>
-        <div class="about-container">
-            <span>
-            <h3>Here is some text</h3>
-            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
-            <p>All of our tailored routes and based on historical records</p>
-            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
-            <p>All of our tailored routes and based on historical records</p>
-            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
-            <p>All of our tailored routes and based on historical records</p>
-            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
-            <p>All of our tailored routes and based on historical records</p>
-            </span>
-        </div>
-        <br>
-        <div class="tours-container">
+        <div class="tours-container" id="tours-div">
             <div class="soho-sound">
                 <h2>Soho Sound</h2>
                 <p></p>
@@ -72,8 +58,21 @@
                 <p></p>
             </div>
         </div>
+        <div class="about-container" id="about-div">
+            <span>
+            <h3>Here is some text</h3>
+            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
+            <p>All of our tailored routes and based on historical records</p>
+            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
+            <p>All of our tailored routes and based on historical records</p>
+            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
+            <p>All of our tailored routes and based on historical records</p>
+            <p>60 Minute Soho is a nonprofit cultural institution that dedicates itself to preserving the many layers of Sohos history</p>
+            <p>All of our tailored routes and based on historical records</p>
+            </span>
+        </div>
         <br>
-        <div class="container">
+        <div class="container" id="accessibility-div">
             <div class="bg1">
                 <h2><i class="fa-solid fa-thumbs-up"></i></h2>
                 <p>Suitable for all ages</p>
@@ -92,7 +91,7 @@
             </div>
         </div>
         <br>
-        <div class="book-container">
+        <div class="book-container" id="booking-div">
             <form id="booking-form" method="POST" action="http://formdump.codeinstitute.net">
                 <h2>Sign up for a Tour</h2>
                 <label for="First-name">First Name</label>

@@ -107,15 +107,6 @@ div > span > h2 {
     text-align: center;
 }
 
-.about-container > span {
-    width: 100%;
-    padding: 60px 0;
-    background-color: #fafafa;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
 .tours-container {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -146,6 +137,15 @@ div > span > h2 {
     font-size: 45px;
     font-weight: 300;
     margin: 10px;
+}
+
+.about-container > span {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #fafafa;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .container {
