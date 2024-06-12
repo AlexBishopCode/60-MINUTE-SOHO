@@ -94,11 +94,13 @@ main {
 }
 
 #info-bar {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
     letter-spacing: 3px;
     background-color: lightsalmon;
     justify-content: space-around;
-    padding: 20px 0;
+    padding: 30px 0;
 }
 
 div > span > h2 {
@@ -256,4 +258,13 @@ div > span > h2 {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
+    #info-bar {
+        display: flex;
+        letter-spacing: 3px;
+        background-color: lightsalmon;
+        justify-content: space-evenly;
+        padding: 20px 0;
+    }
+
 }
