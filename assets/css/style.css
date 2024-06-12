@@ -109,6 +109,11 @@ div > span > h2 {
     text-align: center;
 }
 
+.info-bar-position {
+    position: relative;
+    bottom: 36px;
+}
+
 .tours-container {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -365,6 +370,11 @@ div > span > h2 {
      #info-bar {
         display: flex;
         justify-content: space-evenly;
+    }
+
+    .info-bar-position {
+        position: relative;
+        bottom: 100px;
     }
 }
 
