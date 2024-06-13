@@ -103,16 +103,19 @@ main {
     flex: 1 0 auto;
 }
 
+/* Info bar section */
+
 #info-bar {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
     letter-spacing: 3px;
-    background-color: lightsalmon;
+    background-color: #dcd0b6;
     justify-content: space-around;
     padding: 30px 30px;
     line-height: 1.5;
     font-family: sans-serif;
+    text-align: center;
 }
 
 div > span > h2 {
@@ -123,6 +126,8 @@ div > span > h2 {
     position: relative;
     bottom: 36px;
 }
+
+/* Tours section */
 
 .tours-container {
     display: grid;
@@ -280,6 +285,28 @@ div > span > h2 {
 .building-soho__description {
     font-size: 1.25em;
     margin-top: 0.25em;
+}
+
+/* About section */
+
+.about-header {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0 20px;
+    padding: 10% 10%;
+}
+
+.about-paragraph {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    font-style: italic;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    text-transform: none;
+
 }
 
 .about-container > span {
@@ -459,7 +486,6 @@ div > span > h2 {
     #info-bar {
         display: flex;
         letter-spacing: 3px;
-        background-color: lightsalmon;
         justify-content: space-evenly;
         padding: 20px 0;
     }
