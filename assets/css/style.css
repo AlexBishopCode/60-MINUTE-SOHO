@@ -250,6 +250,8 @@ div > span > h2 {
 .soho-sound__description {
     font-size: 1.25em;
     margin-top: 0.25em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
 }
 
 .beating-art {
@@ -291,6 +293,8 @@ div > span > h2 {
 .beating-art__description {
     font-size: 1.25em;
     margin-top: 0.25em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
 }
 
 .building-soho {
@@ -332,6 +336,8 @@ div > span > h2 {
 .building-soho__description {
     font-size: 1.25em;
     margin-top: 0.25em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
 }
 
 /* Accessible Info Section */
