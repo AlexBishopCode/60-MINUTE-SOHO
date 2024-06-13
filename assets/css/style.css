@@ -189,7 +189,7 @@ div > span > h2 {
 }
 
 .tours-container > div {
-    height: 150px;
+    height: 200px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -243,12 +243,12 @@ div > span > h2 {
 }
 
 .soho-sound__title {
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
 }
 
 .soho-sound__description {
-    font-size: 1.25em;
+    font-size: 1em;
     margin-top: 0.25em;
     margin-left: 1.5em;
     margin-right: 1.5em;
@@ -286,12 +286,12 @@ div > span > h2 {
 }
 
 .beating-art__title {
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
 }
 
 .beating-art__description {
-    font-size: 1.25em;
+    font-size: 1em;
     margin-top: 0.25em;
     margin-left: 1.5em;
     margin-right: 1.5em;
@@ -329,12 +329,12 @@ div > span > h2 {
 }
 
 .building-soho__title {
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
 }
 
 .building-soho__description {
-    font-size: 1.25em;
+    font-size: 1em;
     margin-top: 0.25em;
     margin-left: 1.5em;
     margin-right: 1.5em;
