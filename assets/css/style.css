@@ -129,13 +129,25 @@ div > span > h2 {
 
 /* About section */
 
+.about-container {
+    padding-bottom: 10%;
+}
+.about-container > span {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #fafafa;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 .about-header {
     font-family: sans-serif;
     font-size: 25px;
     font-style: italic;
     font-weight: bold;
     margin: 0 20px;
-    padding-top: 5%;
+    padding-top: 10%;
     padding-bottom: 5%;
 }
 
@@ -147,18 +159,10 @@ div > span > h2 {
     letter-spacing: 1px;
     margin: 0 20px;
     text-transform: none;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 
-}
-
-.about-container > span {
-    width: 100%;
-    padding: 60px 0;
-    background-color: #fafafa;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
 }
 
 /* Tours section */
@@ -417,6 +421,11 @@ div > span > h2 {
     .info-bar-position {
         position: relative;
         bottom: 100px;
+    }
+
+    .about-paragraph {
+        padding-left: 15%;
+        padding-right: 15%;
     }
 }
 
