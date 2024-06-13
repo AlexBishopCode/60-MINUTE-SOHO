@@ -127,6 +127,40 @@ div > span > h2 {
     bottom: 36px;
 }
 
+/* About section */
+
+.about-header {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.about-paragraph {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+    font-style: italic;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    text-transform: none;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+
+.about-container > span {
+    width: 100%;
+    padding: 60px 0;
+    background-color: #fafafa;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 /* Tours section */
 
 .tours-container {
@@ -287,36 +321,7 @@ div > span > h2 {
     margin-top: 0.25em;
 }
 
-/* About section */
-
-.about-header {
-    font-family: sans-serif;
-    font-size: 25px;
-    font-style: italic;
-    font-weight: bold;
-    margin: 0 20px;
-    padding: 10% 10%;
-}
-
-.about-paragraph {
-    font-family: sans-serif;
-    font-size: 25px;
-    font-weight: lighter;
-    font-style: italic;
-    letter-spacing: 1px;
-    margin: 0 20px;
-    text-transform: none;
-
-}
-
-.about-container > span {
-    width: 100%;
-    padding: 60px 0;
-    background-color: #fafafa;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
+/* Accessible Info Section */
 
 .container {
     display: grid;
