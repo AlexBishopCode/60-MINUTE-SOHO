@@ -167,6 +167,19 @@ div > span > h2 {
 
 /* Tours section */
 
+.tours-title {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 100%;
+
+}
+
 .tours-container {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
