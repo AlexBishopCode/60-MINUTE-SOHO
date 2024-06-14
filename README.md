@@ -1,6 +1,6 @@
 Logo
 
-[60-minute-soho__frames.pdf](https://github.com/user-attachments/files/15832887/60-minute-soho__frames.pdf)
+![60-minute-soho__frames](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/0c091532-93c8-441b-af21-f75193e896ab)
 
 
 Dscription of the case study
