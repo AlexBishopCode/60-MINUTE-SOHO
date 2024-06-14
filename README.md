@@ -90,6 +90,12 @@ Click the link to view wireframes:
 
 ### Images
 
+![hero-image](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/8afef584-6f34-452a-9909-f2e0e66b698f)
+![soho-sound-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/c0ef3fb4-9704-488e-9604-b6ec6fa79542)
+![beating-art-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/c99363df-071f-4858-a842-0bfab2911ffc)
+![building-soho-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/6273b45f-4dec-40a5-be13-368016e5653e)
+
+
 
 
 ### Styling
