@@ -19,14 +19,14 @@ I wanted to create a webpage with a minimal aesthetic that displays professional
 
 The target audience for 60 Minute Soho includes:
 
-*Tourists visiting Soho/London.
-*People looking for a daytime activities.
-*People interested in art, culture and history.
-*People from all countries and all languages.
+- Tourists visiting Soho/London.
+- People looking for a daytime activities.
+- People interested in art, culture and history.
+- People from all countries and all languages.
 
 The user goals include:
 
-*To find a walking tour of Soho.
+-To find a walking tour of Soho.
 *To gauge whether the operator is trustworthy.
 *To easily sign up for a walking tour.
 *To discover more about the company and the walking tours they conduct.
