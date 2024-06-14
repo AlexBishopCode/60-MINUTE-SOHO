@@ -21,6 +21,10 @@ body {
     font-family: 'Fredoka', 'Roboto', sans-serif;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Hero Image */
 #hero-image-section {
     width: 100%;
@@ -51,7 +55,7 @@ header a {
     color: inherit;
 }
 
-h1 {
+#logo {
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #252525;
@@ -131,6 +135,10 @@ div > span > h2 {
     bottom: 36px;
 }
 
+.fa-solid {
+    font-size: 30px;
+}
+
 /* About section */
 
 .about-container {
@@ -153,6 +161,7 @@ div > span > h2 {
     margin: 0 20px;
     padding-top: 10%;
     padding-bottom: 5%;
+    text-align: center;
 }
 
 .about-paragraph {
@@ -166,6 +175,7 @@ div > span > h2 {
     padding-top: 5%;
     padding-left: 10%;
     padding-right: 10%;
+    text-align: center;
 
 }
 
