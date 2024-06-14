@@ -26,32 +26,32 @@ The target audience for 60 Minute Soho includes:
 
 The user goals include:
 
--To find a walking tour of Soho.
-*To gauge whether the operator is trustworthy.
-*To easily sign up for a walking tour.
-*To discover more about the company and the walking tours they conduct.
-*To easily find information on specifities such as accessibility.
+- To find a walking tour of Soho.
+- To gauge whether the operator is trustworthy.
+- To easily sign up for a walking tour.
+- To discover more about the company and the walking tours they conduct.
+- To easily find information on specifities such as accessibility.
 
 The design achieves these needs by:
 
-*Having a large hero image directly associated with the area displayed immediately upon opening the web page.
-*Having a single-page design that displays a clear narrative whilst scrolling 
-*Having a single-page design and simple navigation system that allows the user to sign up in as fewer clicks as possible.
-*Having a minimalist design-style which allows information to be displayed clearly.
-*Highlighting a prominent and fixed navigation bar that assists the clear compartmentation of the web page making the user navigate the page with ease.
-*Displaying relevant images and descriptive information assigned to each of the tours advertised to provide the user with an idea of what to expect.
-*Providing social media icons/links within the footer to allow the user to discover more about the business.
-*Having an 'Accessibility' section on the page allowing the user to discover more specifities about the tours.
+- Having a large hero image directly associated with the area displayed immediately upon opening the web page.
+- Having a single-page design that displays a clear narrative whilst scrolling 
+- Having a single-page design and simple navigation system that allows the user to sign up in as fewer clicks as possible.
+- Having a minimalist design-style which allows information to be displayed clearly.
+- Highlighting a prominent and fixed navigation bar that assists the clear compartmentation of the web page making the user navigate the page with ease.
+- Displaying relevant images and descriptive information assigned to each of the tours advertised to provide the user with an idea of what to expect.
+- Providing social media icons/links within the footer to allow the user to discover more about the business.
+- Having an 'Accessibility' section on the page allowing the user to discover more specifities about the tours.
 
 ### Business Goals
 
 The business goals include:
 
-*To encourage the user to book onto a walking tour.
-*To promote a professional and trusted brand image that evokes trust to differentiate from competitors.
-*To give confidence to international tourists and encourage visiters who require accessibility to book onto the tours.
-*To make information clear and consice to improve the quality of information and reduce the amount of confusion surrounding language/accessibility.
-*To gather interest and connect via social media.
+- To encourage the user to book onto a walking tour.
+- To promote a professional and trusted brand image that evokes trust to differentiate from competitors.
+- To give confidence to international tourists and encourage visiters who require accessibility to book onto the tours.
+- To make information clear and consice to improve the quality of information and reduce the amount of confusion surrounding language/accessibility.
+- To gather interest and connect via social media.
 
 ### User Stories
 
