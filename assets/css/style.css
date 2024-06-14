@@ -38,7 +38,7 @@ body {
 }
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #f5f5f5;
     padding: 0 1rem;
     position: sticky;
     z-index: 99;
@@ -58,7 +58,7 @@ header a {
 #logo {
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #252525;
+    color: #343434;
     font-size: 30px;
 }
 
@@ -79,7 +79,7 @@ p {
 nav {
 
 position: absolute;
-background-color: #ffffff;
+background-color: ##f5f5f5;
 width: 100%;
 right: 0;
 padding: 0 1rem;
@@ -106,7 +106,7 @@ padding-top: 10px;
 
 /* Main content */
 main {
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
     flex: 1 0 auto;
 }
 
@@ -117,7 +117,7 @@ main {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
     letter-spacing: 3px;
-    background-color: #dcd0b6;
+    background-color: #dac8ae;
     justify-content: space-around;
     padding: 30px 25px;
     line-height: 1.5;
@@ -147,7 +147,7 @@ div > span > h2 {
 .about-container > span {
     width: 100%;
     padding: 60px 0;
-    background-color: #fafafa;
+    background-color: #f5f5f5;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -189,7 +189,7 @@ div > span > h2 {
     padding-top: 10%;
     padding-bottom: 10%;
     text-align: center;
-    background-color: #dcd0b6;
+    background-color: #dac8ae;
     width: 100%;
 
 }
@@ -198,7 +198,7 @@ div > span > h2 {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 10px;
-    background-color: #dcd0b6;
+    background-color: #dac8ae;
 }
 
 .tours-container > div {
@@ -243,7 +243,7 @@ div > span > h2 {
     width: 100%;
     height: 100%;
     background: #00000099;
-    color: #ffffff;
+    color: #f5f5f5;
     font-family: roboto;
     display: flex;
     flex-direction: column;
@@ -283,7 +283,7 @@ div > span > h2 {
     width: 100%;
     height: 100%;
     background: #00000099;
-    color: #ffffff;
+    color: #f5f5f5;
     font-family: roboto;
     display: flex;
     flex-direction: column;
@@ -323,7 +323,7 @@ div > span > h2 {
     width: 100%;
     height: 100%;
     background: #00000099;
-    color: #ffffff;
+    color: #f5f5f5;
     font-family: roboto;
     display: flex;
     flex-direction: column;
@@ -347,13 +347,13 @@ div > span > h2 {
 /* Accessible Info Section */
 
 .accessibility-section {
-    background-color: #dcd0b6;
+    background-color: #dac8ae;
 }
 .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 5px;
-    background-color: #dcd0b6;
+    background-color: #dac8ae;
     padding-top: 100px;
     padding-bottom: 10px;
     margin-left: 10px;
@@ -363,15 +363,15 @@ div > span > h2 {
 .container > div {
     height: 150px;
     background-size: cover;
-    background-color: whitesmoke;
-    color: #2e2999;
+    background-color: #f5f5f5;
+    color: #002fa7;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
     border-style: solid;
-    border-color: #2e2999;
+    border-color: #002fa7;
     border-radius: 2px;
 
     transition: all 0.5s ease-in;
@@ -387,7 +387,7 @@ div > span > h2 {
 #booking-form {
     font-family: roboto;
     color: black;
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
     padding: 30px;
 }
 
@@ -398,11 +398,11 @@ div > span > h2 {
 
 .text-input {
     background: transparent;
-    color: black;
+    color: #343434;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid black;
+    border: 1px solid #343434;
     border-radius: 2px;
     padding: 0 5px;
 }
@@ -418,7 +418,7 @@ div > span > h2 {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: white;
+    background-color: #f5f5f5;
     color: black;
 }
 

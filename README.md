@@ -108,7 +108,7 @@ With the user and business goals in mind, it was important for this site to have
 
 ### Images
 
-A full-quality hero image (displayed below) is utilised at the top of the page so the user immediatley understands that the service provided operates in Soho. The hero image is taken on a bright day with blue skies to appear friendly and welcoming to the user. The welcoming image is used to direct positive energy towards the user, encouraing them to sign up.
+A full-quality hero image (displayed below) is utilised at the top of the page so the user immediatley understands that the service provided operates in Soho. The hero image is taken on a day with blue skies to appear friendly and welcoming to the user which helps to influence user engagement.
 
 ![hero-image](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/8afef584-6f34-452a-9909-f2e0e66b698f)
 
@@ -136,6 +136,8 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 ##### Hero Image
 
 ![Hero image screenshot on a desktop](assets/documents/readme-images/readme-hero-img.png)
+
+A large hero image spans the full width of the page and is the first image the user sees upon entering the site. The large image is designed to immediatley grab the users attention as they land on the site. 
 
 ##### Nav Bar
 
