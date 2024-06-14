@@ -88,16 +88,16 @@ Click the link to view wireframes:
 
 ### Icons
 
-- The above icons from the 'Fontawesome' Icon library have been utilised as classes in the <i> tag.
+- The above icons from the 'Fontawesome' Icon library have been utilised as classes in the i tag.
 - The icons have been styled cohesively with the overarching color palette.
 - Icons present within the accesssibility section of the web page are displayed in a blue (#2E2999) color as this color is believed to encourage a perception of trust.
-- Social media icons have been positioned within the web page footer. By utilising the <a> tag these icons have associated hyperlinks. Now the user can identify the speicifc social media platform based on their iconic logo and access the hyperlink immediately with one click. 
+- Social media icons have been positioned within the web page footer. By utilising the 'a' tag these icons have associated hyperlinks. Now the user can identify the speicifc social media platform based on their iconic logo and access the hyperlink immediately with one click. 
 
 ### Colors
 
 With the user and business goals in mind, it was important for this site to have a minimalist color pallete. The color palette needs to appear professional, complement the content to make it clear and easy-to-read whilst also ensuring that the page has character.
 
-![60-minute-soho__hex (1)](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/ea8d3315-84e4-4d5e-a85d-f33720c00582)
+![Image of the site color palette](assets/documents/readme-images/readme-coolors.png)
 
 
 - 'Dun' #DCD0B6 - This gentle color is used the provide character and to distinguish between sections of the web page, mirroring the building walls on the hero image ensures the page feels familiar for the full length of the web page. The color along-side the hero image is intended to evoke imagery of an urban area such as Soho.
@@ -108,14 +108,17 @@ With the user and business goals in mind, it was important for this site to have
 
 ### Images
 
+A full-quality hero image (displayed below) is utilised at the top of the page so the user immediatley understands that the service provided operates in Soho. The hero image is taken on a bright day with blue skies to appear friendly and welcoming to the user. The welcoming image is used to direct positive energy towards the user, encouraing them to sign up.
+
 ![hero-image](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/8afef584-6f34-452a-9909-f2e0e66b698f)
+
+
+The three images (displayed below) utilised within the tours section were chosen due to their association with each of the themed walks. This is to provide the user with a small glimpse into the kinds of things they will encounter on that specific tour.
+
 ![soho-sound-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/c0ef3fb4-9704-488e-9604-b6ec6fa79542)
 ![beating-art-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/c99363df-071f-4858-a842-0bfab2911ffc)
 ![building-soho-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/6273b45f-4dec-40a5-be13-368016e5653e)
 
-A full-quality hero image is utilised at the top of the page so the user immediatley understands that the service provided operates in Soho. The hero image is taken on a bright day with blue skies to appear friendly and welcoming to the user. The welcoming image is used to direct positive energy towards the user, encouraing them to sign up.
-
-The three images utilised within the tours section were chosen due to their association with each of the themed walks. This is to provide the user with a small glimpse into the kinds of things they will encounter on that specific tour.
 
 All images chosen are of a high quality so that they appear clear and crisp.
 
@@ -126,22 +129,41 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 
 ???
 
-
 ### FEATURES
 
 #### Page Elements
 
 ##### Hero Image
 
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-hero-img.png)
+
 ##### Nav Bar
+
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-desktop.png)
+
+
+
+
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-phone.png)
 
 #### Info Bar
 
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-info-bar.png)
+** ADD PHONE PHOTO
+
 #### Tours Info Section
+
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-tours-png.png)
+** ADD PHONE PHOTO
 
 #### Accessibility Info Section
 
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-accessibility.png)
+
 #### Sign Up Section
+
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-form.png)
+
 
 
 ## Additional Features
@@ -164,14 +186,14 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 - Google Fonts - Used for font styles ('Fredoka' and 'Roboto').
 - Font Awesome - Icons within info-bar, accessibility section and footer.
 
-## Platforms
+### Platforms
 - Gitpod - IDE for project developemnt.
 - Github - Used for storing code removely and for deployment.
 
-## Other Tools Utilised
+### Other Tools Utilised
 - Coolers - For color selection and color swatch.
 - SMPRO - App utilised for framing web page screengrabs with iphone/ipad/macbook.
-- Favicon - A generator used to create favicon.
+- Favicon - A generator used to create a favicon.
 
 ### TESTING
 
@@ -189,8 +211,9 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 
 - Each time a feature was added a preview port was opened to test the website to view the impact of the changes and to note any immediate bugs.
 - Adaptations were made to the stylings on the google dev tools service whilst previewing the web page to manipulate and experiment with stylings outside of the gitpod IDE.
-- The web bage was send to friends and family for testing, with feedback being documented and acted upon.
+- The web bage was sent to friends and family for testing, with feedback being documented and acted upon.
 - The form within the web page has been fully validated and will not send without the propper validation/all inputs containing the required information.
+- The web page has been manually tested for screen reader compatibility using the Google Chrome screen reader extension with no aparent defects noted.
 - All external links open in new tabs.
 
 .**********gitignore file has been included to prevent system file commits. WHAT IS THIS!>
@@ -209,11 +232,11 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 #### BUGS
 
 ##### Existing Bugs
-- The hero image does not fully cover the hero <div> on some specific screen sizes when tested.
+- The hero image does not fully cover the hero div on some specific screen sizes when tested.
 - The navigation bar remains open after use which blocks the users view of the content when you ustilise the navigation bar until it is manually closed.
 
 ##### Fixed Bugs
-- The fixed (sticky) navigation bar at the top of the page was covering sections of text when utilised so the associated sections of the site you were expecting to navigate to appeared muddled and unclear. This was fixed by adding a hidden <div> above each section the same height of the nav bar and linking the nav bar to the hidden <div> in order for the user to see the full content of the section they wished to view.
+- The fixed (sticky) navigation bar at the top of the page was covering sections of text when utilised so the associated sections of the site you were expecting to navigate to appeared muddled and unclear. This was fixed by adding a hidden div above each section the same height of the nav bar and linking the nav bar to the hidden div in order for the user to see the full content of the section they wished to view.
 - The booking form loaded an error message once details had been entered saying the page visited was not secure. This was due to a typo in the target="" where https:// was written as http://.
 - Accessibility performance failed in testing due to a lack of contract between a previous blue utilised for font-color on the site. After changing blue to a darker blue the accessibility rating checked provided a successful score of 100.
 
