@@ -179,23 +179,22 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 
 * ATTENTION NEEDED BELOW (CONTENT IS TEMPLATE ONLY) *
 ##### Validation Process
-- The HTML has been validated with W3C HTML5 Validator.
+- The HTML file has been validated with W3C HTML5 Validator, with no errors or warnings to show.
 - CSS has been validated with W3C CSS Validator and auto-prefixed with CSS Autoprefixer.
-- Links checked with W3C Link Checker
+- All links have been checked with W3C Link Checker
+
+* ATTENTION NEEDED ABOVE (CONTENT IS TEMPLATE ONLY)*
 
 ##### GENERAL TESTING
 
-Each feature was developed and tested in its own branch before being merged with master. Branches were subsequently deleted.
-Each time a feature was added, all the functions were tested to see if there was an impact.
-The site was sent to friends for feedback and testing.
-All forms have validation and will not submit without the proper information.
-.gitignore file has been included to prevent system file commits.
-The image loading blur has been thoroughly tested and gone through numerous iterations to optimise the smoothness of the transition on different devices and internet speeds.
-Backup Map functions have been tested in a local deployment.
-Email error functions have been tested offline as well.
-External links open in a new tab.
+- Each time a feature was added a preview port was opened to test the website to view the impact of the changes and to note any immediate bugs.
+- Adaptations were made to the stylings on the google dev tools service whilst previewing the web page to manipulate and experiment with stylings outside of the gitpod IDE.
+- The web bage was send to friends and family for testing, with feedback being documented and acted upon.
+- The form within the web page has been fully validated and will not send without the propper validation/all inputs containing the required information.
+- All external links open in new tabs.
 
-* ATTENTION NEEDED ABOVE (CONTENT IS TEMPLATE ONLY)*
+.**********gitignore file has been included to prevent system file commits. WHAT IS THIS!>
+
 
 ##### MOBILE TESTING
 - The site was frequently tested on my own iphone with iOS as well as sent to friends/family with samsungs and older models of iphones to ask for feedback.
@@ -210,11 +209,13 @@ External links open in a new tab.
 #### BUGS
 
 ##### Existing Bugs
-- The hero image appears unresponsive to an apple ipad screen despite appearing responsive when tested in chrome Dev tools to that specific screen size.
+- The hero image does not fully cover the hero <div> on some specific screen sizes when tested.
+- The navigation bar remains open after use which blocks the users view of the content when you ustilise the navigation bar until it is manually closed.
 
 ##### Fixed Bugs
-- The fixed header at the top of the page was covering sections of text at the top of whichever href section the nav bar navigates to. This was fixed by adding a hidden divider above each section and linking the navigation bar to the hidden divider above the section positioned the same height as the header.
-- 
+- The fixed (sticky) navigation bar at the top of the page was covering sections of text when utilised so the associated sections of the site you were expecting to navigate to appeared muddled and unclear. This was fixed by adding a hidden <div> above each section the same height of the nav bar and linking the nav bar to the hidden <div> in order for the user to see the full content of the section they wished to view.
+- The booking form loaded an error message once details had been entered saying the page visited was not secure. This was due to a typo in the target="" where https:// was written as http://.
+- Accessibility performance failed in testing due to a lack of contract between a previous blue utilised for font-color on the site. After changing blue to a darker blue the accessibility rating checked provided a successful score of 100.
 
 ##### DEPLOYMENT
 >>>LOCAL DEPLOYMENT
