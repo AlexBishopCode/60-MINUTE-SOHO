@@ -81,12 +81,30 @@ Click the link to view wireframes:
 
 <img width="1159" alt="60-minute-soho__Fredoka" src="https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/79ff2699-22e0-45eb-9161-053956cd2d3c">
 
+- The main logo uses the font 'Fredoka'. This font was chosen for the logo after some research into font stylings that draw inspiration from the 1960s - an era heavily associated with Soho and Carnaby Street.
+- The logo is a big, round and friendly font that is also bold and simple in design. This choice of font means the the logo always stands out, crearing contrast against the simplistic styling of the secondary font.
+- It seemed appropriate to use this font as it can immiediately be associated with the history of the area which in turn is immediately relevant due to the historical themes explored within the walking tours.
+- The secondary font is 'Roboto', a sens-serif font. The font is simple and creates a frictionless reading experiene. The simplicity of the font creased a nice contrast to the 'Fredoka' logo font and ensures all information on the web page is clear and easy to read. A mixture of bold, italic and light variants of the 'Roboto' font have been used to create contrast between headers and paragraphs.
 
 ### Icons
 
+- The above icons from the 'Fontawesome' Icon library have been utilised as classes in the <i> tag.
+- The icons have been styled cohesively with the overarching color palette.
+- Icons present within the accesssibility section of the web page are displayed in a blue (#2E2999) color as this color is believed to encourage a perception of trust.
+- Social media icons have been positioned within the web page footer. By utilising the <a> tag these icons have associated hyperlinks. Now the user can identify the speicifc social media platform based on their iconic logo and access the hyperlink immediately with one click. 
+
 ### Colors
 
+With the user and business goals in mind, it was important for this site to have a minimalist color pallete. The color palette needs to appear professional, complement the content to make it clear and easy-to-read whilst also ensuring that the page has character.
+
 ![60-minute-soho__hex (1)](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/ea8d3315-84e4-4d5e-a85d-f33720c00582)
+
+
+- 'Dun' #DCD0B6 - This gentle color is used the provide character and to distinguish between sections of the web page, mirroring the building walls on the hero image ensures the page feels familiar for the full length of the web page. The color along-side the hero image is intended to evoke imagery of an urban area such as Soho.
+- 'Whitesmoke' #F5F5F5 - A comfortbale off-white. This color provides a perfect canvas for bold easy-to-read text on large sections of the website whilst also providing more character than a stark bright white.
+- 'Jet #323232 - A dusty shade of black. This color has been used to add an element of sophistication to the font color on the website. Thus variation of black suggests age and mystery, reflecting the nature of the walking tours. This color is chosen for our font-styles to stand out on a pale background.
+- 'International Klein Blue' #2E2999 - A deep blue which is sure to stand out against a pale background color. The blue has been used for icons and some text to emphasise trust and responsibility, designed to make the user feel at ease about using the service.
+
 
 ### Images
 
@@ -95,45 +113,114 @@ Click the link to view wireframes:
 ![beating-art-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/c99363df-071f-4858-a842-0bfab2911ffc)
 ![building-soho-img](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/6273b45f-4dec-40a5-be13-368016e5653e)
 
+A full-quality hero image is utilised at the top of the page so the user immediatley understands that the service provided operates in Soho. The hero image is taken on a bright day with blue skies to appear friendly and welcoming to the user. The welcoming image is used to direct positive energy towards the user, encouraing them to sign up.
 
+The three images utilised within the tours section were chosen due to their association with each of the themed walks. This is to provide the user with a small glimpse into the kinds of things they will encounter on that specific tour.
+
+All images chosen are of a high quality so that they appear clear and crisp.
+
+All images have the necessary stylings so that they adjust seamlessly to ensure they remain at an adequate level of prominance on all screen-sizes.
 
 
 ### Styling
 
-2. FEATURES
->PAGE ELEMENTS
+???
+
+
+### FEATURES
+
+#### Page Elements
+
+##### Hero Image
+
+##### Nav Bar
+
+#### Info Bar
+
+#### Tours Info Section
+
+#### Accessibility Info Section
+
+#### Sign Up Section
+
+
+## Additional Features
+
 >>>IMAGE LOADING BLUR
 >>>EMAIL
->ADDITIOANL FEATURES
->>>IMAGE LOADING BLUR
->>>EMAIL
->FEATURE IDEAS
+
+## Feature Ideas
+
 >>>BASIC
 >>>CONTENT
 
-3. TECHNOLOGIES USED
->LANGUAGES
-FRAMEWORKS
-LIBRARIES
-APIs
-Platforms
-Other Tools
+## Technologies Used
 
-4. TESTING
->METHODS
->>>VALIDATION
-GENERAL TESTING
-MOBILE TESTING
-DESKTOP TESTING
->BUGS
->>>KNOWN BUGS
->>>FIXED BUGS
+### Languages
+- Html - Used for page markup
+- CSS - Used for styling
 
-5. DEPLOYMENT
+### Libraries
+- Google Fonts - Used for font styles ('Fredoka' and 'Roboto').
+- Font Awesome - Icons within info-bar, accessibility section and footer.
+
+## Platforms
+- Gitpod - IDE for project developemnt.
+- Github - Used for storing code removely and for deployment.
+
+## Other Tools Utilised
+- Coolers - For color selection and color swatch.
+- SMPRO - App utilised for framing web page screengrabs with iphone/ipad/macbook.
+- Favicon - A generator used to create favicon.
+
+### TESTING
+
+#### METHODS
+
+* ATTENTION NEEDED BELOW (CONTENT IS TEMPLATE ONLY) *
+##### Validation Process
+- The HTML has been validated with W3C HTML5 Validator.
+- CSS has been validated with W3C CSS Validator and auto-prefixed with CSS Autoprefixer.
+- Links checked with W3C Link Checker
+
+##### GENERAL TESTING
+
+Each feature was developed and tested in its own branch before being merged with master. Branches were subsequently deleted.
+Each time a feature was added, all the functions were tested to see if there was an impact.
+The site was sent to friends for feedback and testing.
+All forms have validation and will not submit without the proper information.
+.gitignore file has been included to prevent system file commits.
+The image loading blur has been thoroughly tested and gone through numerous iterations to optimise the smoothness of the transition on different devices and internet speeds.
+Backup Map functions have been tested in a local deployment.
+Email error functions have been tested offline as well.
+External links open in a new tab.
+
+* ATTENTION NEEDED ABOVE (CONTENT IS TEMPLATE ONLY)*
+
+##### MOBILE TESTING
+- The site was frequently tested on my own iphone with iOS as well as sent to friends/family with samsungs and older models of iphones to ask for feedback.
+- Testing involved going through the entire sign up process, utilising the navigation bar, and checking all other functions.
+- Chrome was utilised to inspect the site in mobile and tablet format, navigating the pages and testing the functions within Chromes 'development tools' service.
+
+##### Desktop Testing
+- The site has been developed within Chrome on a Macbook Pro.
+- The site was sent to friends and family on numerous different generations of iphone and samsung, as well as different desktop devices.
+- The site has been tested on multiple browsers including Safari.
+
+#### BUGS
+
+##### Existing Bugs
+- The hero image appears unresponsive to an apple ipad screen despite appearing responsive when tested in chrome Dev tools to that specific screen size.
+
+##### Fixed Bugs
+- The fixed header at the top of the page was covering sections of text at the top of whichever href section the nav bar navigates to. This was fixed by adding a hidden divider above each section and linking the navigation bar to the hidden divider above the section positioned the same height as the header.
+- 
+
+##### DEPLOYMENT
 >>>LOCAL DEPLOYMENT
 >>>GITHUB DEPLOYMENT
 
-8.CREDIT AND CONTACT
+#### CREDIT AND CONTACT
 >>>CONTENT
 >>>CONTACT
 
