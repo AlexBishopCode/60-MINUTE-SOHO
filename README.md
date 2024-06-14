@@ -1,6 +1,7 @@
 Logo
 
-Frame Image
+[60-minute-soho__frames.pdf](https://github.com/user-attachments/files/15832887/60-minute-soho__frames.pdf)
+
 
 Dscription of the case study
 
