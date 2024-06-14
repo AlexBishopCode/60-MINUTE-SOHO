@@ -126,8 +126,9 @@
             <h2 class="hidden-heading">booking heading</h2>
         <div class="info-bar-position" id="booking-div"></div>
         <div class="book-container">
-            <form id="booking-form" method="POST" action="http://formdump.codeinstitute.net">
+            <form id="booking-form" method="POST" action="https://formdump.codeinstitute.net">
                 <h2>Sign up to book:</h2>
+                <br>
                 <label for="first-name">First Name</label>
                 <input type="text" name="first-name" id="first-name" class="text-input" required>
                 <br>
@@ -137,18 +138,15 @@
                 <label for="email-address">Email Address</label>
                 <input type="email" name="email-address" id="email-address" class="text-input" required>
                 <div class="radio-buttons">
+                <div id="newsletter-question">Would you like to sign up to our newsletter?</div>
                 <div>
-                    <label for="soho-sound">Soho Sound</label>
-                    <input type="radio" name="tour-preference" id="soho-sound" value="soho-sound" required checked>
+                    <label for="newsletter-yes">Yes</label>
+                    <input type="radio" name="newsletter-preference" id="newsletter-yes" value="newsletter-yes" required checked>
                 </div>
+                <br>
                 <div>
-                    <label for="beating-art">Beating Art</label>
-                    <input type="radio" name="tour-preference" id="beating-art" value="beating-art" required checked>
-                </div>
-                <div>
-                    <label for="building-soho">Building Soho</label>
-                    <input type="radio" name="tour-preference" id="building-soho" value="building-soho" required checked>
-                </div>
+                    <label for="newsletter-no">No</label>
+                    <input type="radio" name="newsletter-preference" id="newsletter-no" value="newsletter-no" required checked>
                 </div>
                 <button type="submit" class="book-button">SIGN UP</button>
             </form>
