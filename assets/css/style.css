@@ -252,11 +252,6 @@ div > span > h2 {
     transition: opacity 0.25s;
 }
 
-.soho-sound__overlay:hover {
-    opacity: 1;
-
-}
-
 .soho-sound__title {
     font-size: 1.5em;
     font-weight: bold;
@@ -297,11 +292,6 @@ div > span > h2 {
     transition: opacity 0.25s;
 }
 
-.beating-art__overlay:hover {
-    opacity: 1;
-
-}
-
 .beating-art__title {
     font-size: 1.5em;
     font-weight: bold;
@@ -340,11 +330,6 @@ div > span > h2 {
     align-items: center;
     justify-content: center;
     transition: opacity 0.25s;
-}
-
-.building-soho__overlay:hover {
-    opacity: 1;
-
 }
 
 .building-soho__title {
@@ -390,11 +375,6 @@ div > span > h2 {
     border-radius: 2px;
 
     transition: all 0.5s ease-in;
-}
-
-.container > div:hover {
-    opacity: 0.7;
-    transform: scale(0.98);
 }
 
 .container h2 {
