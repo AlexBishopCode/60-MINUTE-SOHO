@@ -19,6 +19,9 @@ TABLE OF CONTENTS
 >>>FONTS
 >>>ICONS
 >>>COLORS
+
+![60-minute-soho__hex (1)](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/ea8d3315-84e4-4d5e-a85d-f33720c00582)
+
 >>>IMAGES
 >>>STYLING
 
