@@ -79,6 +79,9 @@ Click the link to view wireframes:
 
 ### Fonts
 
+<img width="1159" alt="60-minute-soho__Fredoka" src="https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/79ff2699-22e0-45eb-9161-053956cd2d3c">
+
+
 ### Icons
 
 ### Colors
@@ -86,6 +89,8 @@ Click the link to view wireframes:
 ![60-minute-soho__hex (1)](https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/ea8d3315-84e4-4d5e-a85d-f33720c00582)
 
 ### Images
+
+
 
 ### Styling
 
