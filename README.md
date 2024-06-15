@@ -7,15 +7,13 @@
 I wanted to create a webpage with a minimal aesthetic that displays professionalism, simplicity and trust.
 
 
-## TABLE OF CONTENTS
-
-
 
 # UX
 
 ## Goals
 
 ### Visitor Goals
+
 
 The target audience for 60 Minute Soho includes:
 
@@ -43,6 +41,8 @@ The design achieves these needs by:
 - Providing social media icons/links within the footer to allow the user to discover more about the business.
 - Having an 'Accessibility' section on the page allowing the user to discover more specifities about the tours.
 
+<hr>
+
 ### Business Goals
 
 The business goals include:
@@ -52,6 +52,8 @@ The business goals include:
 - To give confidence to international tourists and encourage visiters who require accessibility to book onto the tours.
 - To make information clear and consice to improve the quality of information and reduce the amount of confusion surrounding language/accessibility.
 - To gather interest and connect via social media.
+
+<hr>
 
 ### User Stories
 
@@ -68,6 +70,7 @@ The business goals include:
 6. As a user who has just been on a walking tour with this company and had a good experience, I want to easily find links to their social media to see updates.
 
 7. As a user with reading difficulties, I expect the website to be compatible with a screen reader.
+<hr>
 
 
 ## Visual Design
@@ -76,6 +79,7 @@ The business goals include:
 
 Click the link to view wireframes:
 
+<hr>
 
 ### Fonts
 
@@ -86,12 +90,16 @@ Click the link to view wireframes:
 - It seemed appropriate to use this font as it can immiediately be associated with the history of the area which in turn is immediately relevant due to the historical themes explored within the walking tours.
 - The secondary font is 'Roboto', a sens-serif font. The font is simple and creates a frictionless reading experiene. The simplicity of the font creased a nice contrast to the 'Fredoka' logo font and ensures all information on the web page is clear and easy to read. A mixture of bold, italic and light variants of the 'Roboto' font have been used to create contrast between headers and paragraphs.
 
+<hr>
+
 ### Icons
 
 - The above icons from the 'Fontawesome' Icon library have been utilised as classes in the i tag.
 - The icons have been styled cohesively with the overarching color palette.
 - Icons present within the accesssibility section of the web page are displayed in a blue (#2E2999) color as this color is believed to encourage a perception of trust.
 - Social media icons have been positioned within the web page footer. By utilising the 'a' tag these icons have associated hyperlinks. Now the user can identify the speicifc social media platform based on their iconic logo and access the hyperlink immediately with one click. 
+
+<hr>
 
 ### Colors
 
@@ -105,6 +113,8 @@ With the user and business goals in mind, it was important for this site to have
 - 'Jet #323232 - A dusty shade of black. This color has been used to add an element of sophistication to the font color on the website. Thus variation of black suggests age and mystery, reflecting the nature of the walking tours. This color is chosen for our font-styles to stand out on a pale background.
 - 'International Klein Blue' #2E2999 - A deep blue which is sure to stand out against a pale background color. The blue has been used for icons and some text to emphasise trust and responsibility, designed to make the user feel at ease about using the service.
 
+
+<hr>
 
 ### Images
 
@@ -129,9 +139,16 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 
 ???
 
+<hr>
+<hr>
+
 ### FEATURES
 
+<hr>
+
 #### Page Elements
+
+<hr>
 
 ##### Hero Image
 
@@ -139,34 +156,82 @@ All images have the necessary stylings so that they adjust seamlessly to ensure 
 
 A large hero image spans the full width of the page and is the first image the user sees upon entering the site. The large image is designed to immediatley grab the users attention as they land on the site. 
 
+The hero image uses responsive stlying to ensure all screen sizes can faciltiate the image and keep the page elements visually proportionate to the design.
+
+<hr>
+
 ##### Nav Bar
 
 ![Hero image screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-desktop.png)
 
+![Navigation bar screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-phone.png)
 
+The navigation bar contains a promient logo and is responsive so that on larger screens it displays all the page navigation links in a row and on smaller screens the navigation links are contained within a drop down. 
 
+The position of the navigation bar is sticky so that when users scroll down the page they are easily able to access the navigation menu, landing them on their desired section of the site. The sticky header allows the user to access the menu items quickly, saving time and providing a more efficient user experience.
 
-![Hero image screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-phone.png)
+A box shadow has been added to the navigation bar to provide the user with a sense of 
+
+<hr>
 
 #### Info Bar
 
-![Hero image screenshot on a desktop](assets/documents/readme-images/readme-info-bar.png)
-** ADD PHONE PHOTO
+The info bar is located immediately below the navigation bar. The info bar is immediatley visible as the user lands on the web page.
+
+The icons and text on this section provide clear and impactful information which immedialtely informs the user what services are provided. 
+
+The icons are easily recongisable to all users, are visually appealing and improve the user experience.
+
+The infobar has been constructed within a grid where the icons and their associated text appear in two columns on smaller screens, with a media query instated so that the information appears on one singular line on larger screens so that the website remains proportionate and doesnt utilises excess space.
+
+Humans tend to read from left to right, an icon of a walking person with text saying 'walking tours' directly beneath this has been positioned on the left of the info bar. This is so that users immediately distinguish what service the business is offering leaving less room for ambiguity created by the somewhat ambiguous brand name. 
+
+![Info bar screenshot on a desktop](assets/documents/readme-images/readme-info-bar.png)
+
+** ADD PHONE PHOTO OF INFO BAR IMAGE
+
+<hr>
 
 #### Tours Info Section
 
-![Hero image screenshot on a desktop](assets/documents/readme-images/readme-tours-png.png)
-** ADD PHONE PHOTO
+The tours section includes information regarding the three tours that are currently available to the user.
+
+Three sections of informative text have been presented on top of three separate images, all displayed in on top of one another. Each image is related to its respective text.
+
+Images have been used here to communicate the purpose of each tour and to help the user distinguish between the tours, giving them a sense of variety.
+
+Each of the three tours have been styled into a flexbox grid. The flex value allows for a media query to be utilised and to position the content side by side in three columns on larger screens.
+
+The width of the images within the content are all fully resonsive to adjustments in screensize.
+
+
+![Tours section screenshot on a desktop](assets/documents/readme-images/readme-tours-png.png)
+
+** ADD PHONE PHOTO OF TOURS IMAGE
+
+<hr>
 
 #### Accessibility Info Section
 
+The accessibility information section includes four divs within a flexbox grid. Each div contains clear information and icons to provide users wishing to learn more about the accessibility of the tours with more information. 
+
+The flexbox grid allows the information to be responsive to changes in screen size and the columns also adjust formation in screen size due to a media query.
+
 ![Hero image screenshot on a desktop](assets/documents/readme-images/readme-accessibility.png)
+
+<hr>
 
 #### Sign Up Section
 
+The sign up section is created using a form element. The form is designed to be simple and easy to use.
+
+Positioning the form at the bottom of the site ensures the user flow is not interrupted to discourage abandoment. 
+
+The simple design is purposeful to ensure that the process of completing the form appears easy and streamlined.
+
+An option for the user to sign up for a newsletter has been added using radiobuttons at the bottom of the form to allow them to give permission for further information and promotional material to be sent to their email.
+
 ![Hero image screenshot on a desktop](assets/documents/readme-images/readme-form.png)
-
-
 
 ## Additional Features
 
