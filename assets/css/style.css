@@ -75,7 +75,9 @@ p {
     margin-bottom: 1em;
 }
 
-/* Navbar styles with dropdown toggle */
+/* Navbar styles with dropdown toggle - Utilising the Love Running 
+project from Code Institute for a general template */
+
 nav {
 position: absolute;
 background-color: #f5f5f5;
@@ -390,7 +392,8 @@ div > span > h2 {
     margin: 10px;
 }
 
-/* Booking Form */
+/* Booking Form - Utilising the Love Running 
+project from Code Institute for a general template */
 #booking-form {
     font-family: roboto;
     color: black;
