@@ -77,13 +77,15 @@ The business goals include:
 
 ### Wireframes
 
-Click the link to view wireframes:
+Wireframes were drawn on [balsamic](https://balsamiq.com) to draw a general layout of the web page.
+
+Click here to view wireframes: https://drive.google.com/drive/folders/1sStum-9PVeh2ybLao4RfvSAAKJ0clWOX?usp=sharing
 
 <hr>
 
 ### Fonts
 
-<img width="1159" alt="60-minute-soho__Fredoka" src="https://github.com/AlexBishopCode/60-Minute-Soho/assets/171177957/79ff2699-22e0-45eb-9161-053956cd2d3c">
+Fonts were imported into the code from [Google Fonts](https://fonts.google.com/).
 
 - The main logo uses the font 'Fredoka'. This font was chosen for the logo after some research into font stylings that draw inspiration from the 1960s - an era heavily associated with Soho and Carnaby Street.
 - The logo is a big, round and friendly font that is also bold and simple in design. This choice of font means the the logo always stands out, crearing contrast against the simplistic styling of the secondary font.
@@ -133,14 +135,6 @@ The three images (displayed below) utilised within the tours section were chosen
 All images chosen are of a high quality so that they appear clear and crisp.
 
 All images have the necessary stylings so that they adjust seamlessly to ensure they remain at an adequate level of prominance on all screen-sizes.
-
-
-### Styling
-
-???
-
-<hr>
-<hr>
 
 ### FEATURES
 
@@ -219,7 +213,7 @@ The accessibility information section includes four divs within a flexbox grid. 
 
 The flexbox grid allows the information to be responsive to changes in screen size and the columns also adjust formation in screen size due to a media query.
 
-![Hero image screenshot on a desktop](assets/documents/readme-images/readme-accessibility.png)
+![Accessibility section on a desktop](assets/documents/readme-images/readme-accessibility.png)
 
 <hr>
 
@@ -234,6 +228,8 @@ The simple design is purposeful to ensure that the process of completing the for
 An option for the user to sign up for a newsletter has been added using radiobuttons at the bottom of the form to allow them to give permission for further information and promotional material to be sent to their email.
 
 ![Sign up form screenshot on a desktop](assets/documents/readme-images/readme-form.png)
+
+![Sign up form screenshot on a desktop](assets/documents/readme-images/readme-signup-target.png)
 
 ## Additional Features
 
