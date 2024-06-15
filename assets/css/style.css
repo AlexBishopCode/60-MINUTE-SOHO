@@ -222,6 +222,7 @@ div > span > h2 {
 .tours-container > div:hover {
     opacity: 0.7;
     transform: scale(0.98);
+
 }
 
 .tours-container h2 {
