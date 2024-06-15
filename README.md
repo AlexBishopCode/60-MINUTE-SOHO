@@ -162,15 +162,17 @@ The hero image uses responsive stlying to ensure all screen sizes can faciltiate
 
 ##### Nav Bar
 
-![Hero image screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-desktop.png)
-
-![Navigation bar screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-phone.png)
-
 The navigation bar contains a promient logo and is responsive so that on larger screens it displays all the page navigation links in a row and on smaller screens the navigation links are contained within a drop down. 
+
+The menu options on the nav bar have animated CSS styling so that they appear blue when you hover over the text, drawing attention to the options as you select.
 
 The position of the navigation bar is sticky so that when users scroll down the page they are easily able to access the navigation menu, landing them on their desired section of the site. The sticky header allows the user to access the menu items quickly, saving time and providing a more efficient user experience.
 
 A box shadow has been added to the navigation bar to provide the user with a sense of 
+
+![Hero image screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-desktop.png)
+
+![Navigation bar screenshot on a desktop](assets/documents/readme-images/readme-nav-bar-phone.png)
 
 <hr>
 
@@ -231,17 +233,21 @@ The simple design is purposeful to ensure that the process of completing the for
 
 An option for the user to sign up for a newsletter has been added using radiobuttons at the bottom of the form to allow them to give permission for further information and promotional material to be sent to their email.
 
-![Hero image screenshot on a desktop](assets/documents/readme-images/readme-form.png)
+![Sign up form screenshot on a desktop](assets/documents/readme-images/readme-form.png)
 
 ## Additional Features
 
->>>IMAGE LOADING BLUR
+###IMAGE LOADING BLUR
 >>>EMAIL
 
 ## Feature Ideas
 
->>>BASIC
->>>CONTENT
+- A interactive gallery/slide section with photos of content and people taking part in the walking tours.
+- Purchasing/cart options.
+- An interactive section displaying text from review websites.
+- A FAQ section to answer more of the users questions.
+- More details regarding each walking tour.
+- More options on the form to allow the user register and also log into the website if they have already registered.
 
 ## Technologies Used
 
@@ -283,7 +289,13 @@ An option for the user to sign up for a newsletter has been added using radiobut
 - The web page has been manually tested for screen reader compatibility using the Google Chrome screen reader extension with no aparent defects noted.
 - All external links open in new tabs.
 
-.**********gitignore file has been included to prevent system file commits. WHAT IS THIS!>
+Below are the results from the CSS, html and accessibility checks.
+
+![CSS validator result screenshot on desktop](assets/documents/readme-images/readme-css-val.png)
+
+![HTML validator result screenshot on desktop](assets/documents/readme-images/readme-html-val.png)
+
+![HTML validator result screenshot on desktop](assets/documents/readme-images/readme-lighthouse-val.png)
 
 
 ##### MOBILE TESTING
@@ -300,7 +312,7 @@ An option for the user to sign up for a newsletter has been added using radiobut
 
 ##### Existing Bugs
 - The hero image does not fully cover the hero div on some specific screen sizes when tested.
-- The navigation bar remains open after use which blocks the users view of the content when you ustilise the navigation bar until it is manually closed.
+- The navigation bar remains open after clicking the burger icon which blocks the users view of the content when you ustilise the navigation bar until it is manually closed.
 
 ##### Fixed Bugs
 - The fixed (sticky) navigation bar at the top of the page was covering sections of text when utilised so the associated sections of the site you were expecting to navigate to appeared muddled and unclear. This was fixed by adding a hidden div above each section the same height of the nav bar and linking the nav bar to the hidden div in order for the user to see the full content of the section they wished to view.
@@ -308,8 +320,15 @@ An option for the user to sign up for a newsletter has been added using radiobut
 - Accessibility performance failed in testing due to a lack of contract between a previous blue utilised for font-color on the site. After changing blue to a darker blue the accessibility rating checked provided a successful score of 100.
 
 ##### DEPLOYMENT
->>>LOCAL DEPLOYMENT
->>>GITHUB DEPLOYMENT
+
+This site has been deployed to GitHub pages via the following steps:
+- Within the GitHub 60-Minute-Soho repository, the settings tab was opened.
+- Within the settings tab, the 'pages' menu option in the left hand column was opened.
+- Within 'pages', the settings for the branch were changed to ensure this was set to the 'main' branch. After this the 'Save' button was clicked.
+
+The live link to the site can be accessed [here](https://alexbishopcode.github.io/60-Minute-Soho/).
+
+https://alexbishopcode.github.io/60-Minute-Soho/
 
 #### CREDITS AND CONTACT
 
