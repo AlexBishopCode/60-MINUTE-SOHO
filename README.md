@@ -326,7 +326,7 @@ This site has been deployed to GitHub pages via the following steps:
 - Within the settings tab, the 'pages' menu option in the left hand column was opened.
 - Within 'pages', the settings for the branch were changed to ensure this was set to the 'main' branch. After this the 'Save' button was clicked.
 
-The live link to the site can be accessed [here](https://alexbishopcode.github.io/60-Minute-Soho/).
+The live link to the site can be accessed [here](https://alexbishopcode.github.io/60-Minute-Soho/)
 
 https://alexbishopcode.github.io/60-Minute-Soho/
 
@@ -334,7 +334,7 @@ https://alexbishopcode.github.io/60-Minute-Soho/
 
 ##### Content
 
-All text on the site was written by myself from scratch with the use of [Wikipedia](https://www.wikipedia.org) for the about section.
+All text on the site was written by myself from scratch with research conducted on [Wikipedia](https://www.wikipedia.org) for the about and tours sections.
 
 The Love Running Project on the [Code Institute](https://www.codeinstitute.net) Full Stack Web Development Course was used as a loose template to create some of the general framework of the site. 
 Most notably the code from the Love Running project was utilised to create the foundation of the navigation bar, the sign up form and the social media links before developing and adapting these to be coherant with my web page design and required functions for this project.

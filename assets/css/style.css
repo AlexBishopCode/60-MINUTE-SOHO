@@ -448,7 +448,7 @@ div > span > h2 {
     /* Nav Bar */
 
     #menu a:hover {
-        color: blue !important;
+        color: #002fa7 !important;
     }
 
     /* Info Bar */
@@ -489,7 +489,7 @@ div > span > h2 {
     }
 
     #menu a:hover {
-        color: blue !important;
+        color: #002fa7 !important;
     }
 
     .nav-toggle-label {
