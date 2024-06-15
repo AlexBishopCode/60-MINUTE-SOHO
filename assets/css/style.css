@@ -414,6 +414,10 @@ div > span > h2 {
     padding: 0 5px;
 }
 
+#newsletter-question {
+    font-size: smaller;
+}
+
 .radio-buttons {
     width: 100%;
     display: flex;
