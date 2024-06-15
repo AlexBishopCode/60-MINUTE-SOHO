@@ -311,7 +311,20 @@ An option for the user to sign up for a newsletter has been added using radiobut
 >>>LOCAL DEPLOYMENT
 >>>GITHUB DEPLOYMENT
 
-#### CREDIT AND CONTACT
->>>CONTENT
->>>CONTACT
+#### CREDITS AND CONTACT
+
+##### Content
+
+All text on the site was written by myself from scratch with the use of [Wikipedia](https://www.wikipedia.org) for the about section.
+
+The Love Running Project on the [Code Institute](https://www.codeinstitute.net) Full Stack Web Development Course was used as a loose template to create some of the general framework of the site. 
+Most notably the code from the Love Running project was utilised to create the foundation of the navigation bar, the sign up form and the social media links before developing and adapting these to be coherant with my web page design and required functions for this project.
+
+The Sample Project README.md section of the Full Stack Web Development course on [Code Institute](https://www.codeinstitute.net) was used as a guide to understand the content required to be present within a README.md file.
+
+The 'Horizon Photography'(https://github.com/Ri-Dearg/horizon-photo/blob/main/README.mdREADME) project owned by Ri-Dearg on github was used as a guide to create a general framework for this README.md file.
+
+##### Contact
+
+Please feel free to contact me on helloalexbishop@gmail.com
 
