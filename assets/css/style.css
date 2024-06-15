@@ -103,6 +103,13 @@ padding-top: 10px;
     font-size: 2rem;
 }
 
+/* Nav toggle text hover */
+
+#menu a:hover {
+    color: blue !important;
+}
+
+
 /* Main content */
 main {
     background-color: #f5f5f5;
@@ -438,6 +445,12 @@ div > span > h2 {
 /* Media query: tablets and larger (510px and up) */
 @media screen and (min-width: 510px) {
 
+    /* Nav Bar */
+
+    #menu a:hover {
+        color: blue !important;
+    }
+
     /* Info Bar */
 
      #info-bar {
@@ -473,6 +486,10 @@ div > span > h2 {
 
     #menu > li {
         padding-left: 1rem;
+    }
+
+    #menu a:hover {
+        color: blue !important;
     }
 
     .nav-toggle-label {
@@ -533,7 +550,7 @@ div > span > h2 {
     /* Header */ 
     
     #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+        color: blue !important;
     }
 
     /* Info Bar */
