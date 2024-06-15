@@ -4,8 +4,9 @@
 
 60 Minute Soho is a tour company operating in Soho, London. The company offers a selection of walking tours in the area, each tour exploring a different theme. 
 
-I wanted to create a webpage with a minimal aesthetic that displays professionalism, simplicity and trust.
+The company requires a website that has a minimalistic aesthetic that displays professionalism and siplicity.
 
+The objectives of this site are to gain the users trust and to encourage them to sign up for a tour.
 
 
 # UX
@@ -18,9 +19,9 @@ I wanted to create a webpage with a minimal aesthetic that displays professional
 The target audience for 60 Minute Soho includes:
 
 - Tourists visiting Soho/London.
-- People looking for a daytime activities.
+- People looking for daytime activities.
 - People interested in art, culture and history.
-- People from all countries and all languages.
+- People from all countries and people who speak different languages.
 
 The user goals include:
 
@@ -28,18 +29,19 @@ The user goals include:
 - To gauge whether the operator is trustworthy.
 - To easily sign up for a walking tour.
 - To discover more about the company and the walking tours they conduct.
-- To easily find information on specifities such as accessibility.
+- To easily find information on specific needs such as accessibility.
 
 The design achieves these needs by:
 
-- Having a large hero image directly associated with the area displayed immediately upon opening the web page.
-- Having a single-page design that displays a clear narrative whilst scrolling 
+- Having a large hero image directly associated with the Soho area displayed on the landing page.
+- Having a single-page design that displays a clear narrative whilst scrolling.
 - Having a single-page design and simple navigation system that allows the user to sign up in as fewer clicks as possible.
 - Having a minimalist design-style which allows information to be displayed clearly.
 - Highlighting a prominent and fixed navigation bar that assists the clear compartmentation of the web page making the user navigate the page with ease.
 - Displaying relevant images and descriptive information assigned to each of the tours advertised to provide the user with an idea of what to expect.
-- Providing social media icons/links within the footer to allow the user to discover more about the business.
-- Having an 'Accessibility' section on the page allowing the user to discover more specifities about the tours.
+- Providing social media icons/links within the footer to allow the user to discover more about the business and to nurture the relationship.
+- Having an 'accessibility' section on the page allowing the user to discover more specifities about the tours.
+- Having a smart and professional responsive webpage to mirror the professionalism that company wants to convey.
 
 <hr>
 
