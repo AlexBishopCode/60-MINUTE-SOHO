@@ -190,7 +190,7 @@ Users tend to read from left to right, an icon of a walking person with text say
 
 ![Info bar screenshot on a desktop](assets/documents/readme-images/readme-info-bar.png)
 
-** ADD PHONE PHOTO OF INFO BAR IMAGE
+![Info bar section screenshot on a mobile](assets/documents/readme-images/readme-info-mobile.png)
 
 <hr>
 
@@ -208,7 +208,7 @@ The width of the images within the content are all fully resonsive to adjustment
 
 ![Tours section screenshot on a desktop](assets/documents/readme-images/readme-tours-png.png)
 
-** ADD PHONE PHOTO OF TOURS IMAGE
+![Tours section screenshot on a mobile](assets/documents/readme-images/readme-tours-mobile.png)
 
 <hr>
 
@@ -235,11 +235,6 @@ An option for the user to sign up for a newsletter has been added using radiobut
 ![Sign up form screenshot on a desktop](assets/documents/readme-images/readme-form.png)
 
 ![Sign up form screenshot on a desktop](assets/documents/readme-images/readme-signup-target.png)
-
-## Additional Features
-
-###IMAGE LOADING BLUR
->>>EMAIL
 
 ## Feature Ideas
 
